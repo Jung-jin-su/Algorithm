@@ -2,7 +2,7 @@ package Hash;
 
 import java.util.HashSet;
 
-public class Phonekemon {
+public class Programmers_Phonekemon {
     public int solution(int[] nums) {
         int max = nums.length/2;
 
